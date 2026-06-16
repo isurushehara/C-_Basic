@@ -1,0 +1,55 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
+
+# NuGet packages
+packages/
+
+# Test results
+TestResults/
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Publish output
+publish/
+
+# Backup files
+*.bak
+
+# Generated files
+Generated/
+
+# Dotnet local tools
+.dotnet/
+
+# Environment files
+.env
+.env.*
