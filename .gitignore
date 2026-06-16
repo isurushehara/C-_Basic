@@ -53,3 +53,5 @@ Generated/
 # Environment files
 .env
 .env.*
+
+appsettings.json
